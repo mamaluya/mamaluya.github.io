@@ -4,12 +4,12 @@
 
 # Site
 title: Acerock
-subtitle: 'Personal Blog Website'
-description: 'a blog project based on hexo'
-keywords: hexo, blog
+subtitle: Personal Blog Website
+description: a blog project based on hexo
+keywords: hexo,blog
 author: Luya Li
-language: zh-cn
-timezone: 'Asia/Shanghai'
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:mamaluya/mamaluya.github.io.git
+  repo: git@gitee.com:mamaluya/mamaluya.git
   branch: master
